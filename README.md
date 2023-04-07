@@ -1,5 +1,5 @@
 # Counter
-Welcome to the Counter - the most fun and exciting way to increment and decrement values! This microproject lets you increment and decrement a value by 1, 5, and 10, and even allows you to input your own value to increment or decrement by. Plus, it features a sleek and modern Neumorphic design that's sure to impress!
+Welcome to Counter - the most fun and exciting way to increment and decrement values! This microproject lets you increment and decrement a value by 1, 5, and 10, and even allows you to input your own value to increment or decrement by. Plus, it features a sleek and modern Neumorphic design that's sure to impress!
 
 ## Features
 - Increment and decrement a value by 1, 5, and 10 - just click the buttons and watch the magic happen!
