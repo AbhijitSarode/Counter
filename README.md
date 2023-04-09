@@ -19,7 +19,7 @@ To get started with this project, just follow these simple steps:
 Once you have the project open in your web browser, the fun can begin! Use the buttons provided to increment or decrement the value by 1, 5, or 10. Feeling bold? Enter a value into the input field and click the "Add" or "Subtract" button to increment or decrement the value by that amount. The possibilities are endless!
 
 ## Screenshot
-![Screenshot 1](./screenshots/demo.gif)
+![Screenshot 1](./screenshots/demo.gif "Neumorphism design counter")
 
 ## Credits
 
