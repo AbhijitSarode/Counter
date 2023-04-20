@@ -40,16 +40,16 @@
                     <input type="number" id="input" placeholder="Enter a number">
                 </div>
                 <div id="section0">
-                    <button id="increment"><span class="add">&#x2191;</span>input</button>
-                    <button id="decrement"><span class="subtract">&#x2193;</span>input</button>
+                    <button id="increment" onclick="calculateValue()"><span class="add">&#x2191;</span>input</button>
+                    <button id="decrement" onclick="calculateValue(-1)"><span class="subtract">&#x2193;</span>input</button>
                 </div>
                 <div id="section2">
-                    <button id="incrementByOne"><span class="add">&#x2191;</span> 1</button>
-                    <button id="decrementByOne"><span class="subtract">&#x2193;</span> 1</button>
+                    <button id="incrementByOne" onclick="calculate(1)"><span class="add">&#x2191;</span> 1</button>
+                    <button id="decrementByOne" onclick="calculate(-1)"><span class="subtract">&#x2193;</span> 1</button>
                 </div>
                 <div id="section3">
-                    <button id="incrementByFive"> <span class="add">&#x2191;</span> 5</button>
-                    <button id="decrementByTen"><span class="subtract">&#x2193;</span> 10</button><br><br>
+                    <button id="incrementByFive" onclick="calculate(5)"> <span class="add">&#x2191;</span> 5</button>
+                    <button id="decrementByTen" onclick="calculate(-10)"><span class="subtract">&#x2193;</span> 10</button><br><br>
                 </div>
                 <div id="section4">
                     <button id="reset">Reset</button>
