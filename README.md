@@ -1,5 +1,5 @@
 # Counter
-Welcome to the Counter - the most fun and exciting way to increment and decrement values! This microproject lets you increment and decrement a value by 1, 5, and 10, and even allows you to input your own value to increment or decrement by. Plus, it features a sleek and modern Neumorphic design that's sure to impress!
+Welcome to Counter - the most fun and exciting way to increment and decrement values! This microproject lets you increment and decrement a value by 1, 5, and 10, and even allows you to input your own value to increment or decrement by. Plus, it features a sleek and modern Neumorphic design that's sure to impress!
 
 ## Features
 - Increment and decrement a value by 1, 5, and 10 - just click the buttons and watch the magic happen!
@@ -18,8 +18,9 @@ To get started with this project, just follow these simple steps:
 
 Once you have the project open in your web browser, the fun can begin! Use the buttons provided to increment or decrement the value by 1, 5, or 10. Feeling bold? Enter a value into the input field and click the "Add" or "Subtract" button to increment or decrement the value by that amount. The possibilities are endless!
 
+## Screenshot
+![Screenshot 1](./screenshots/demo.gif "Neumorphism design counter")
+
 ## Credits
 
 The Neumorphic design was inspired by the work of [Michal Malewicz](https://twitter.com/michalmalewicz) - thanks for the awesome inspiration!
-
-![Screenshot 1](./screenshots/demo.gif)
